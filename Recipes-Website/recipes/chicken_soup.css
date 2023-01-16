@@ -1,0 +1,42 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+    overflow: hidden;
+    
+    
+    }
+
+h1{
+    text-decoration: underline;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.martha{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: grey;
+
+}
+
+h2{
+    padding-top: 100px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: robot;
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.chicken_image{
+    grid-area: image;
+border-top-left-radius:none;
+border-top-right-radius: none;
+background-size: cover;
+}
